@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: New domain name.
+title: New domain name
 date: 2024-06-13
 author: Daniel Pritchard
 categories: [events]
