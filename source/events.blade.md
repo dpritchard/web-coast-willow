@@ -36,7 +36,11 @@ Our second AGM will be held 30<sup>th</sup> October at 5.30pm, in the Fred Hollo
 
 <x-img src="/assets/img/IMG_20211121_152957753.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-We work on various projects, including tension trays, bending frames and handles, making string and brushes. For more information and if you wish to join please [Contact us]({{ url('/contact') }}). 
+Through the year we hold making days. We work on various projects, using a variety of materials. Past examples include tension trays, bending frames and handles, making string and brushes. These are co-learning spaces (no dedicated tutors), where the group will try ideas gleaned from the internet or books, and share tips for techniques (often learned while making mistakes!).  
+
+Cost: suggested donation $2 (members) and $15 (non-members), to help cover the cost of hiring the workspace.
+
+For more information and if you wish to join please [contact us]({{ url('/contact') }}). 
 
 The date for the next weaving get-together is:
 
