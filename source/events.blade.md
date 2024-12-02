@@ -28,9 +28,6 @@ The upcoming working bee days are:
 ### Garden Calendar 
 <x-img src="/assets/img/garden_calendar.png" caption="" class="w-full mx-2 my-2"/>
 
-## AGM
-
-Our second AGM will be held 30<sup>th</sup> October at 5.30pm, in the Fred Hollows Room, Valley Project, North Rd, NEV.
 
 ## Weaving Get-Togethers
 
@@ -63,3 +60,7 @@ You can read about previous harvests in [2022][2022], [2023][2023] and [2024][20
 <p>
 <iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+## AGM
+
+Our second AGM was held on the 30<sup>th</sup> October at 5.30pm, in the Fred Hollows Room, Valley Project, North Rd, NEV.
