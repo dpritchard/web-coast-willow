@@ -21,7 +21,7 @@ The upcoming working bee days are:
 - Sat 16<sup>th</sup> November 
 - Sun 24<sup>th</sup> November 
 - Sat 7<sup>th</sup> December 
-- Sun 15<sup>th</sup> December 
+- Sat 14<sup>th</sup> December 
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
