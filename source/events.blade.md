@@ -15,13 +15,12 @@ This spring we have scheduled a Saturday and Sunday option each month, come alon
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
 The upcoming working bee days are:
-
-- Sat 12<sup>th</sup> October 
-- Sun 20<sup>th</sup> October
-- Sat 16<sup>th</sup> November 
-- Sun 24<sup>th</sup> November 
-- Sat 7<sup>th</sup> December 
-- Sat 14<sup>th</sup> December 
+ 
+- Sun 2<sup>nd</sup> February
+- Sat 15<sup>th</sup> February 
+- Sun 23<sup>rd</sup> February 
+- Sat 15<sup>th</sup> March 
+- Sat 23<sup>rd</sup> March 
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
