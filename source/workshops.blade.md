@@ -4,6 +4,8 @@ description: Information about our upcoming workshops
 extends: _layouts.main
 section: body
 ---
+<x-img src="/assets/img/IMG_20211204_155415838.jpg" caption="" class="mx-2 my-2"/>
+
 <x-img src="/assets/img/IMG_20211204_155415838.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
 # Beginnners Workshops
