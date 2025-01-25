@@ -4,12 +4,12 @@ description: Information about our upcoming workshops
 extends: _layouts.main
 section: body
 ---
-<x-img src="/assets/img/IMG_20211204_155415838.jpg" caption="" class="mx-2 my-2"/>
 
-<x-img src="/assets/img/IMG_20211204_155415838.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
 # Beginnners Workshops
 Periodically throughout the year we run workshops for beginners. These are taught by volunteer basket makers who love to share their knowledge and skills. 
+
+<x-img src="/assets/img/IMG_20211204_155415838.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
 The beginners workshop teaches the basics of weaving a round basket, using willow we have grown ourselves. This workshop will give you a taste for working with willow and some of the different weaving patterns. At the end of the weekend, you will have made a lovely basket and hopefully be inspired to continue working with willow. 
 
