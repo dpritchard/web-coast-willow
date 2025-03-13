@@ -46,7 +46,7 @@ For more information and if you wish to join please [contact us]({{ url('/contac
 
 The date for the next weaving get-together is:
 
-- 19<sup>th</sup> January 2025, 10am to 4pm. Big Willow Day - garden structures using very large willow rods.
+- TBD but we will have another event soon.
 
 ## Annual Harvest
 
