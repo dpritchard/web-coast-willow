@@ -20,7 +20,7 @@ The upcoming working bee days are:
 - Sat 15<sup>th</sup> February 
 - Sun 23<sup>rd</sup> February 
 - Sat 15<sup>th</sup> March 
-- Sat 23<sup>rd</sup> March
+- Sun 23<sup>rd</sup> March
 - Sat 19<sup>th</sup> Apr 
 - Sun 27<sup>th</sup> Apr 
 - Sat 24<sup>th</sup> May
