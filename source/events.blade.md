@@ -22,9 +22,7 @@ You can read about previous harvests in [2022][2022], [2023][2023] and [2024][20
 [2023]: {{ url('/news/2023-07-23_annual_harvest') }}
 [2024]: {{ url('/news/2024-07-28_annual_harvest_2024') }}
 
-<p>
-<iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
 
 ## Monthly Working Bees
 <x-img src="/assets/img/IMG_20181124_163001906_HDR.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
@@ -61,7 +59,9 @@ The date for the next weaving get-together is:
 
 - TBD but we will have another event soon.
 
-
+<p>
+<iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 ## AGM
 
 Our second AGM was held on the 30<sup>th</sup> October at 5.30pm, in the Fred Hollows Room, Valley Project, North Rd, NEV.
