@@ -4,29 +4,42 @@ description: Information about our upcoming events
 extends: _layouts.main
 section: body
 ---
+## Annual Harvest
+
+<x-img src="/assets/img/harvest16July2023.jpg" caption="Beginning the 2023 harvest." class="float-right w-1/3 mx-2 my-2"/>
+
+We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. 
+
+**2025 dates for harvest are the first two weekends of July**  
+- 5<sup>th</sup> and 6<sup>th</sup> July
+- 12<sup>th</sup> and 13<sup>th</sup> July
+
+[Contact us]({{ url('/contact') }}) to find out more about helping with harvest.
+
+You can read about previous harvests in [2022][2022], [2023][2023] and [2024][2024] on our News Page. 
+
+[2022]: {{ url('/news/2022-07-15_annual_harvest') }}
+[2023]: {{ url('/news/2023-07-23_annual_harvest') }}
+[2024]: {{ url('/news/2024-07-28_annual_harvest_2024') }}
+
+<p>
+<iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Monthly Working Bees
 <x-img src="/assets/img/IMG_20181124_163001906_HDR.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
 We have regular working bees through the year to look after our willow beds.  It’s a great chance to see the yearly cycle of willow growth and learn more about identifying the different species and varieties of willow. Weeding, mulching, and cutting grass are our main working bee activities. Bring along weeding tools, gloves and wear sturdy shoes or gumboots. Also bring a hot drink and a snack for afternoon tea. 
 
-This spring we have scheduled a Saturday and Sunday option each month, come along to whichever suits you best. Working bees are 1pm to 4pm. 
+We hold working bees on the first Sunday of the month. Working bees are 11am to 3pm. 
 
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
 The upcoming working bee days are:
  
-- Sun 2<sup>nd</sup> February
-- Sat 15<sup>th</sup> February 
-- Sun 23<sup>rd</sup> February 
-- Sat 15<sup>th</sup> March 
-- Sun 23<sup>rd</sup> March
-- Sat 19<sup>th</sup> Apr 
-- Sun 27<sup>th</sup> Apr 
-- Sat 24<sup>th</sup> May
-- Sun 31<sup>st</sup> May
-- Sat 21<sup>st</sup> June – prep for harvest
-- Sun 29<sup>th</sup> June – prep day for harvest
+- Sun 4<sup>th</sup> May
+- Sun 1<sup>st</sup> June
+
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
@@ -48,23 +61,6 @@ The date for the next weaving get-together is:
 
 - TBD but we will have another event soon.
 
-## Annual Harvest
-
-<x-img src="/assets/img/harvest16July2023.jpg" caption="Beginning the 2023 harvest." class="float-right w-1/3 mx-2 my-2"/>
-
-We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. 
-
-**2025 Dates TBC** 
-
-You can read about previous harvests in [2022][2022], [2023][2023] and [2024][2024] on our News Page. 
-
-[2022]: {{ url('/news/2022-07-15_annual_harvest') }}
-[2023]: {{ url('/news/2023-07-23_annual_harvest') }}
-[2024]: {{ url('/news/2024-07-28_annual_harvest_2024') }}
-
-<p>
-<iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ## AGM
 
