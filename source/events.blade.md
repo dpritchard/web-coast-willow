@@ -11,8 +11,8 @@ section: body
 We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. 
 
 **2025 dates for harvest are the first two weekends of July**  
-- 5<sup>th</sup> and 6<sup>th</sup> July
-- 12<sup>th</sup> and 13<sup>th</sup> July
+- 5<sup>th</sup> and 6<sup>th</sup> July  
+- 12<sup>th</sup> and 13<sup>th</sup> July  
 
 [Contact us]({{ url('/contact') }}) to find out more about helping with harvest.
 
