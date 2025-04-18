@@ -10,10 +10,11 @@ This is the source code and content for a static website built using [Jigsaw][tc
 [ghp]: https://pages.github.com
 
 # Local Builds / Development
+In a terminal window in the `web-coast-willow` working directory
 ```
-subl .
 npm run dev
 ./vendor/bin/jigsaw serve
+bbedit ./
 ```
 
 Built for deployment on GitHub using Github actions and a build workflow modified from [here](https://james.brooks.page/blog/jigsaw-github-actions/).
