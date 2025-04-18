@@ -16,5 +16,12 @@ npm run dev
 ./vendor/bin/jigsaw serve
 bbedit ./
 ```
+Once happy with changes:
+```
+^c (to cancel the development server...)
+git add .
+git commmit -m
+git push
+```
 
 Built for deployment on GitHub using Github actions and a build workflow modified from [here](https://james.brooks.page/blog/jigsaw-github-actions/).
