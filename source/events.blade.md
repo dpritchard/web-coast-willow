@@ -5,6 +5,9 @@ extends: _layouts.main
 section: body
 ---
 
+## AGM
+
+Our third AGM will be held on the 24<sup>th</sup> September at 5.30pm, in the Fred Hollows Room, Valley Project, North Rd, NEV.
 
 ## Monthly Working Bees
 <x-img src="/assets/img/IMG_20181124_163001906_HDR.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
@@ -14,11 +17,6 @@ We have regular working bees through the year to look after our willow beds.  It
 We hold working bees on the first Sunday of the month. Working bees are 11am to 3pm. 
 
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
-
-The upcoming working bee days are:
- 
-- TBD will happen soon!  
-
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
@@ -46,10 +44,6 @@ The date for the next weaving get-together is:
 
 We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. 
 
-**2025 dates for harvest are the first two weekends of July**  
-- 5<sup>th</sup> and 6<sup>th</sup> July  
-- 12<sup>th</sup> and 13<sup>th</sup> July  
-
 [Contact us]({{ url('/contact') }}) to find out more about helping with harvest.
 
 You can read about previous harvests in [2022][2022], [2023][2023] and [2024][2024] on our News Page. 
@@ -61,6 +55,3 @@ You can read about previous harvests in [2022][2022], [2023][2023] and [2024][20
 <p>
 <iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-## AGM
-
-Our second AGM was held on the 30<sup>th</sup> October at 5.30pm, in the Fred Hollows Room, Valley Project, North Rd, NEV.
