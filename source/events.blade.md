@@ -14,7 +14,7 @@ Our third AGM will be held on the 24<sup>th</sup> September at 5.30pm, in the Fr
 
 We have regular working bees through the year to look after our willow beds.  It’s a great chance to see the yearly cycle of willow growth and learn more about identifying the different species and varieties of willow. Weeding, mulching, and cutting grass are our main working bee activities. Bring along weeding tools, gloves and wear sturdy shoes or gumboots. Also bring a hot drink and a snack for afternoon tea. 
 
-We hold working bees on the first Sunday of the month. Working bees are 11am to 3pm. 
+We hold working bees on the second Sunday of the month. Working bees are 11am to 3pm. 
 
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
@@ -36,7 +36,7 @@ For more information and if you wish to join please [contact us]({{ url('/contac
 
 The date for the next weaving get-together is:
 
-- 24th August 10am to 3pm - weaving green willow, meet at the willow beds, bring tools, something to sit on, and snacks.
+- 30 Nov - details to come shortly.
 
 ## Annual Harvest
 
