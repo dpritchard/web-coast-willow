@@ -31,7 +31,8 @@ For more information and if you wish to join please [contact us]({{ url('/contac
 
 The date for the next weaving get-together is:
 
-- 30 Nov - details to come shortly.
+- **30 Nov - Frame Basket making day led by Sue**. The wonderful thing about frame baskets is you can use a variety of materials, Sue has made them with blackberry brambles, hop vines, honeysuckle and willow. Sue will be teaching a round frame basket. Please bring two round frames of 30 cm in diameter; the frames must fit perfectly inside each other. OR two frames , one of 23 cm in diameter, and one oval 33 cm long and wide enough to fit perfectly inside the other hoop. Please email before November 1st to register your interest. Spaces are limited to 8 weavers.
+
 
 ## Annual Harvest
 
