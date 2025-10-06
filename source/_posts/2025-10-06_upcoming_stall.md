@@ -2,9 +2,9 @@
 extends: _layouts.post
 section: content
 title: Larnarch Castle Makers Market
-date: 2025-04-06
+date: 2025-10-06
 author: Gretchen Brownstein
-description: stall at the Makers Market. 
+description: Stall at the Makers Market. 
 cover_image: /assets/img/IMG_8999.jpg
 featured: true
 categories: [events]
