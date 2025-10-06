@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: Larnarch Castle Makers Market
+title: Larnach Castle Makers Market
 date: 2025-10-06
 author: Gretchen Brownstein
 description: Stall at the Makers Market. 
