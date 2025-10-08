@@ -29,9 +29,10 @@ Cost: suggested donation $2 (members) and $15 (non-members), to help cover the c
 
 For more information and if you wish to join please [contact us]({{ url('/contact') }}). 
 
-The date for the next weaving get-together is:
+The dates for the next weaving get-togethers are:
 
-- **30 Nov - Frame Basket making day led by Sue**. The wonderful thing about frame baskets is you can use a variety of materials, Sue has made them with blackberry brambles, hop vines, honeysuckle and willow. Sue will be teaching a round frame basket. Please bring two round frames of 30 cm in diameter; the frames must fit perfectly inside each other. OR two frames , one of 23 cm in diameter, and one oval 33 cm long and wide enough to fit perfectly inside the other hoop. Please email before November 1st to register your interest. Spaces are limited to 8 weavers.
+- **30 Nov - Frame Basket making day led by Sue**. The wonderful thing about frame baskets is you can use a variety of materials, Sue has made them with blackberry brambles, hop vines, honeysuckle and willow. Sue will be teaching a round frame basket. Please bring two round frames of 30 cm in diameter; the frames must fit perfectly inside each other. OR two frames , one of 23 cm in diameter, and one oval 33 cm long and wide enough to fit perfectly inside the other hoop. Spaces are limited to 8 weavers. Sorry - this making day is fully subscribed.
+- **6 Dec - Tatza Making Day led by Belinda and Nicky** These lovely willow Tatza can be made as a shaped basket or as a flatter tray and can easily be completed in one day. Tatza are woven with slightly stiffer willow than is generally used in a basket; either soaked for a shorter period of time or allowed to dry for several days before using. When you sign up for this making day, please let us know if you are using your own willow or if you will need soaked willow provided for you on the day. Please register your interest for the workshop by November 8. Spaces are limited to 8 weavers.
 
 
 ## Annual Harvest
