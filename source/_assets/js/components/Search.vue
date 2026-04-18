@@ -10,7 +10,7 @@
                 id="search"
                 v-model="query"
                 ref="search"
-                class="relative block h-10 w-full lg:w-1/2 lg:focus:w-3/4 bg-gray-100 border border-gray-500 focus:border-blue-400 outline-none cursor-pointer text-gray-700 px-4 pb-0 pt-px transition-all duration-200 ease-out"
+                class="relative block h-10 w-full lg:w-1/2 lg:focus:w-3/4 bg-gray-100 border border-gray-500 focus:border-blue-400 outline-hidden cursor-pointer text-gray-700 px-4 pb-0 pt-px transition-all duration-200 ease-out"
                 :class="{ 'transition-border': query }"
                 autocomplete="off"
                 name="search"
@@ -22,7 +22,7 @@
 
             <button
                 v-if="query || searching"
-                class="absolute top-0 right-0 leading-snug font-400 text-3xl text-blue-500 hover:text-blue-600 focus:outline-none pr-7 md:pr-3"
+                class="absolute top-0 right-0 leading-snug font-400 text-3xl text-blue-500 hover:text-blue-600 focus:outline-hidden pr-7 md:pr-3"
                 @click="reset"
             >&times;</button>
 
@@ -45,7 +45,7 @@
 
                         <div
                             v-if="! results.length"
-                            class="bg-white w-full hover:bg-blue-100 border-b border-blue-400 rounded-b-lg shadow cursor-pointer p-4"
+                            class="bg-white w-full hover:bg-blue-100 border-b border-blue-400 rounded-b-lg shadow-sm cursor-pointer p-4"
                         >
                             <p class="my-0">No results for <strong>{{ query }}</strong></p>
                         </div>
@@ -57,7 +57,7 @@
         <button
             title="Start searching"
             type="button"
-            class="flex md:hidden bg-gray-100 hover:bg-blue-100 justify-center items-center border border-gray-500 rounded-full focus:outline-none h-10 px-3"
+            class="flex md:hidden bg-gray-100 hover:bg-blue-100 justify-center items-center border border-gray-500 rounded-full focus:outline-hidden h-10 px-3"
             @click.prevent="showInput"
         >
             <img src="/assets/img/magnifying-glass.svg" alt="search icon" class="h-4 w-4 max-w-none">

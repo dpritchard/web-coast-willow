@@ -20,7 +20,7 @@ pagination:
                 <a
                     href="{{ $previous }}"
                     title="Previous Page"
-                    class="bg-slate-200 hover:bg-slate-400 rounded mr-3 px-5 py-3"
+                    class="bg-slate-200 hover:bg-slate-400 rounded-sm mr-3 px-5 py-3"
                 >&LeftArrow;</a>
             @endif
 
@@ -28,7 +28,7 @@ pagination:
                 <a
                     href="{{ $path }}"
                     title="Go to Page {{ $pageNumber }}"
-                    class="bg-slate-200 hover:bg-slate-400 rounded mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-amber-700' : '' }}"
+                    class="bg-slate-200 hover:bg-slate-400 rounded-sm mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-amber-700' : '' }}"
                 >{{ $pageNumber }}</a>
             @endforeach
 
@@ -36,7 +36,7 @@ pagination:
                 <a
                     href="{{ $next }}"
                     title="Next Page"
-                    class="bg-slate-200 hover:bg-slate-400 rounded mr-3 px-5 py-3"
+                    class="bg-slate-200 hover:bg-slate-400 rounded-sm mr-3 px-5 py-3"
                 >&RightArrow;</a>
             @endif
         </nav>

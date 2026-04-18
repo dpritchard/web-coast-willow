@@ -4,3 +4,5 @@
 /vendor/
 .DS_Store
 /docs/
+.env
+/source/hot

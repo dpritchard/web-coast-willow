@@ -32,8 +32,6 @@
             </ul>
         </footer>
 
-        <script src="{{ url('/assets/build/js/main.js') }}"></script>
-
         @stack('scripts')
     </body>
 </html>
