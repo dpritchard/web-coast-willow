@@ -4,6 +4,23 @@ description: Information about our upcoming events
 extends: _layouts.main
 section: body
 ---
+## Annual Harvest
+
+<x-img src="/assets/img/harvest16July2023.jpg" caption="Beginning the 2023 harvest." class="float-right w-1/3 mx-2 my-2"/>
+
+We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again.  
+
+**2026 Harvest** will take place over two weekends: **27/28 June and 4/5 July**   
+All are welcome to join us on  any of these dates, please share the word with anyone interested and available. Harvest time is our busiest time of year and there are jobs for all abilities, plenty of learning to be had, and it's a fun time. 
+
+[Contact us]({{ url('/contact') }}) to find out more about helping with harvest.
+
+You can read about previous harvests in [2022][2022], [2023][2023] and [2024][2024] on our News Page. 
+
+[2022]: {{ url('/news/2022-07-15_annual_harvest') }}
+[2023]: {{ url('/news/2023-07-23_annual_harvest') }}
+[2024]: {{ url('/news/2024-07-28_annual_harvest_2024') }}
+
 ## Monthly Working Bees
 <x-img src="/assets/img/IMG_20181124_163001906_HDR.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
@@ -29,25 +46,7 @@ Cost: suggested donation $2 (members) and $15 (non-members), to help cover the c
 
 For more information and if you wish to join please [contact us]({{ url('/contact') }}). 
 
-The dates for the next weaving get-togethers are:
-
-- **30 Nov - Frame Basket making day led by Sue**. The wonderful thing about frame baskets is you can use a variety of materials, Sue has made them with blackberry brambles, hop vines, honeysuckle and willow. Sue will be teaching a round frame basket. Please bring two round frames of 30 cm in diameter; the frames must fit perfectly inside each other. OR two frames , one of 23 cm in diameter, and one oval 33 cm long and wide enough to fit perfectly inside the other hoop. Spaces are limited to 8 weavers. Sorry - this making day is fully subscribed.
-- **6 Dec - Tatza Making Day led by Belinda and Nicky** These lovely willow Tatza can be made as a shaped basket or as a flatter tray and can easily be completed in one day. Tatza are woven with slightly stiffer willow than is generally used in a basket; either soaked for a shorter period of time or allowed to dry for several days before using. When you sign up for this making day, please let us know if you are using your own willow or if you will need soaked willow provided for you on the day. Please register your interest (by email) for the workshop by November 8. Spaces are limited to 8 weavers.
-
-
-## Annual Harvest
-
-<x-img src="/assets/img/harvest16July2023.jpg" caption="Beginning the 2023 harvest." class="float-right w-1/3 mx-2 my-2"/>
-
-We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. 
-
-[Contact us]({{ url('/contact') }}) to find out more about helping with harvest.
-
-You can read about previous harvests in [2022][2022], [2023][2023] and [2024][2024] on our News Page. 
-
-[2022]: {{ url('/news/2022-07-15_annual_harvest') }}
-[2023]: {{ url('/news/2023-07-23_annual_harvest') }}
-[2024]: {{ url('/news/2024-07-28_annual_harvest_2024') }}
+The dates for the next weaving get-togethers will be announced soon!
 
 ## AGM
 
