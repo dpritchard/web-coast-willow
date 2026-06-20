@@ -31,8 +31,10 @@ Our Retreat is an escape from everyday life for four fabulous days of willow bas
 ## Previous Workshops
 
 - Intermediate / Advanced Weavers Retreat 19<sup>th</sup> to 22<sup>th</sup> April 2026.
+- Weekend Beginners workshop 7<sup>th</sup> to 8<sup>th</sup> March 2026
 - 1 Day Beginners workshop 15<sup>th</sup> November 2025
 - 1 Day Beginners workshop 16<sup>th</sup> November 2025
+- Intermediate / Advanced Weavers Retreat 3<sup>rd</sup> to 6<sup>th</sup> April 2025.
 - Beginners 12<sup>th</sup> to 13<sup>th</sup> October 2024
 - Beginners 9<sup>th</sup> to 10<sup>th</sup> November 2024
 - Intermediate / Advanced Weavers Retreat 4<sup>th</sup> to 7<sup>th</sup> April 2024.
